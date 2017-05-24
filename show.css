@@ -1,0 +1,102 @@
+body {
+  margin: 0px;
+}
+
+* {
+  border-radius: 5px;
+}
+
+.icon-bar {
+  background-color: white;
+}
+
+#logo {
+  width: 260px;
+  height: 63px;
+  margin-top: -21px;
+}
+
+.form-inline {
+  margin-top: 8px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons_under_image {
+  display: flex;
+  padding-top: 10px;
+}
+
+.icons_under_image i {
+  margin: 15px;
+}
+
+.icons_under_image h4 {
+  margin: 15px;
+  padding-top: 5px;
+}
+
+.big_pic {
+  padding: 0px;
+  border: thin black solid;
+  margin-bottom: 30px;
+}
+
+.post_category_and_date {
+  display: flex;
+  justify-content: space-between;
+}
+
+.author {
+  margin-top: 20px;
+  padding: 0px
+}
+
+.author img {
+  width: 140px;
+  height: 140px;
+  margin-right: 20px;
+  float: left;
+  border: thin solid black;
+
+}
+
+.author h3 {
+  margin: 0px 0px 10px 0px;
+}
+
+.author_name_label {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.comment img {
+  width: 85px;
+  height: 85px;
+  float: left;
+  border: thin solid black;
+  margin-right: 15px;
+}
+
+
+.comment_name_date {
+  display: flex;
+  justify-content: space-between;
+  clear: both;
+}
+
+.footer {
+  text-align: center;
+}
+
+.more_comments {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+.social_media i {
+  margin: 25px 30px 20px 25px;
+}
